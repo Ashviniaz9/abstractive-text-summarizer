@@ -1,0 +1,47 @@
+.jumbotron{
+background-color: blanchedalmond;
+display: grid;
+text-align: center;
+height: 250px;
+font-size:2pc;
+font-family:Arial, Helvetica, sans-serif;
+}
+.form-control{
+  height: 100px;
+}
+.original_title{
+  
+  background-color: orangered;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px;
+  justify-content: center;
+}
+.Summary_title{
+  background-color: rgb(5, 64, 98);
+  color: beige;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 12px;
+  justify-content: center;
+  
+
+}
+.srt{
+  display: flex;
+  flex-direction: row;
+}
+.originaltext{
+  background-color: orangered;
+
+  height: 54pc;
+  width: 54pc;
+
+}
+.summarytext{
+  background-color:rgb(5, 64, 98) ;
+  color: beige;
+  margin-left: 10px;
+  height: 54pc;
+  width: 54pc;
+}
